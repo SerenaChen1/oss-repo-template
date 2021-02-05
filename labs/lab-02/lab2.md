@@ -10,3 +10,6 @@
 
 ### Fork of Spoon-Knife Repo
 ![Spoon-Knife](https://github.com/SerenaChen1/Spoon-Knife)
+
+### Learn Git Branching
+![Learn Git Branching](images/learn_git_branching.jpg)
