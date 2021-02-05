@@ -14,11 +14,14 @@
 ### Learn Git Branching
 ![Learn Git Branching](images/learn_git_branching.jpg)
 
-### Pull Requests
+### PullReq
 ![Pull Requests](https://github.com/SerenaChen1/PullReq)
 
 ### Diffs
 ![Diffs](images/git_diff.jpg)
 
 ### Tagging
-![Diffs](images/git_tag.jpg)
+![Tags](images/git_tag.jpg)
+
+### Project Ideas Common Repository
+![Project Ideas](https://github.com/MackQian/OSSProjectIdeas)
