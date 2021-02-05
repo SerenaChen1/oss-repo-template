@@ -13,3 +13,12 @@
 
 ### Learn Git Branching
 ![Learn Git Branching](images/learn_git_branching.jpg)
+
+### Pull Requests
+![Pull Requests](https://github.com/SerenaChen1/PullReq)
+
+### Diffs
+![Diffs](images/git_diff.jpg)
+
+### Tagging
+![Diffs](images/git_tag.jpg)
