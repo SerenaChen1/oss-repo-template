@@ -1,3 +1,5 @@
+### Project Interests Wiki
+![project interests wiki](https://github.com/SerenaChen1/oss-repo-template/wiki/Project-Interests)
 
 ### Latex
 $\sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + \cdots}}}}$ \\
