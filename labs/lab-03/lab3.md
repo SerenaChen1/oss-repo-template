@@ -145,6 +145,8 @@ remotes/origin/DarkTheme2
 
 ![pipeline general](images/pipeline_general.png)
 
+There are definitely some differences in the way gitstats counts contributors and the way we found contributors (by looking at the repo on Github). For some repos, it undercounts, and for other repos, it overcounts, so there may be subtle differences like whether contributors that don't have changes on master or whether to merge authors that have the same email.
+
 ![pipeline gourse](images/pipeline_gourse.png)
 
 #### Shuttle Tracker
